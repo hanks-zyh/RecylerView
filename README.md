@@ -1,5 +1,6 @@
 # RecylerView
-Swipe the item of RecylerView and Drag to sort item
+
+>######Swipe the item of RecylerView and Drag to sort item
 =================
  
 ![](https://github.com/hanks-zyh/RecylerView/blob/master/demo.gif)
