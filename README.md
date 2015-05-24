@@ -1,9 +1,11 @@
 # RecylerView
 Swipe the item of RecylerView and Drag to sort item
+=================
+ 
 ![](https://github.com/hanks-zyh/RecylerView/blob/master/demo.gif)
 
 ---
-Base On [Advanced RecyclerView](https://github.com/h6ah4i/android-advancedrecyclerview)
+####Base On [Advanced RecyclerView](https://github.com/h6ah4i/android-advancedrecyclerview)
 
 ## License
 
